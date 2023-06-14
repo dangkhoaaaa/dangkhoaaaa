@@ -1,8 +1,5 @@
 # 💫About Me :
-- 👋 Hi, I’m Dang Khoa
-- 👀 I’m interested .NET Core
-- 🌱 I’m currently learning software engineering at FPT University campus HCM
-- 📫 Contact me via dangkhoa3348@gmail.com
+
 <a href="https://imgur.com/0lGAWsC"><img src="https://i.imgur.com/0lGAWsC.png" title="source: imgur.com" /></a>
 
 # 💻Tech Stack
