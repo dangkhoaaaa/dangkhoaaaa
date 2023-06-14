@@ -1,7 +1,7 @@
 # 💫About Me :
 - 👋 Hi, I’m Dang Khoa
 - 👀 I’m interested .NET Core
-- 🌱 I’m currently learning FPT Univerity campus HCM
+- 🌱 I’m currently learning software engineering at FPT University campus HCM
 - 📫 Contact me via dangkhoa3348@gmail.com
 
 
