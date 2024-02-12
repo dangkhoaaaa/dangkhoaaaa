@@ -1,7 +1,7 @@
 # 💫About Me :
 
 - 👋 Hi, I’m Dang Khoa
-- 👀 I’m interested .NET Core
+- 👀 I'm a Back-End Software Engineer Web Development. I have experience BackEnd technologies and Modern Front-End Web Development.
 - 🌱 I’m currently learning software engineering at FPT University campus HCM
 - 📫 Contact me via dangkhoa3348@gmail.com
 
